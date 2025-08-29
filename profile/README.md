@@ -1,6 +1,6 @@
 # CPTC-CAM - About Us
 This organization supports collaborative projects for Clover Park Technical College (CPTC) programs in the
-Center for Advanced Manufacturing (CAM)
+Center for Advanced Manufacturing and Technology (CAM-T)
 
 ## Current Programs collaborating on projects
 - [Mechatronics Engineering Technology and Automation (META)](https://www.cptc.edu/programs/basmeta)
